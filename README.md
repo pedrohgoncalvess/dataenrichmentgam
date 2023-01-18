@@ -1,4 +1,4 @@
-<h1>Data Enrichment Marketing | GAM <h1>
+<h1>Data Enrichment Marketing | GAM </h1>
 
 > About
 
